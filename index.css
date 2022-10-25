@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(209, 194, 209);
+}
+.box{ 
+    position: relative; 
+    margin: auto;
+    left:400px; 
+    margin-top: 150px; 
+}    
+input{
+    height: 100px;
+}
+.btns{
+    padding: 10px;   
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(209, 194, 209);
+}
